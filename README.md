@@ -87,6 +87,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 </a>
 
 
-<a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-white?style=for-the-badge" />
+<a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-DC143C?&style=for-the-badge&logoColor=white" />
 </a>  
 </div>
