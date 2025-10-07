@@ -64,16 +64,9 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 ### Malware Analysis
 <div>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-REMnux-2A2F39?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-ProcMon-4682B4?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-PEStudio-FFA500?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-HxD-FF4500?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Sysinternals_Suite-008080?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-ANY.RUN-DC143C?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-EML_Analyzer-DC143C?&style=for-the-badge&logoColor=white" /></a>
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-VirusTotal-4E9A06?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-FlareVM-6B8E23?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Regshot-FFD700?&style=for-the-badge&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Process_Hacker-00CED1?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Threat_Zone-00CED1?&style=for-the-badge&logoColor=white" /></a>
 </div>
  
 
