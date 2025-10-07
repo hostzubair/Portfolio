@@ -8,7 +8,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 # Skills 🛠
 <div>
-  <a href="#"><img src="https://img.shields.io/badge/Information%20Security-5C8DBB?style=for-the-badge&logo=security&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Network%20Security-1BA0E8?style=for-the-badge&logo=cisco&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Incident%20Response-FC8C40?style=for-the-badge&logo=incident-response&logoColor=white" style="pointer-events: none;" />
   <a href="#"><img src="https://img.shields.io/badge/Malware%20Analysis-0099CC?style=for-the-badge&logo=malwarebytes&logoColor=white" style="pointer-events: none;" /></a>
