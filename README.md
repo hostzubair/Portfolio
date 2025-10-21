@@ -30,10 +30,10 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
-|Nessus Project| <a href="https://github.com/hostzubair/Nessus/tree/main">View Project</a>|
-|Wireshark Project| <a href="https://github.com/hostzubair/Wireshark/tree/main">View Project</a>|
+|Nessus Project| <a href="https://github.com/hostzubair/Nessus">View Project</a>|
+|Wireshark Project| <a href="https://github.com/hostzubair/Wireshark">View Project</a>|
 |SOC Automation Project| <a href="https://github.com/syedme18/SOC-Automation-Project">View Project</a>|
-|SSH Log Analysis using Splunk| <a href="https://github.com/hostzubair/SSH-LOG-ANALYSIS/tree/main">View Project</a>|
+|SSH Log Analysis using Splunk| <a href="https://github.com/hostzubair/SSH-LOG-ANALYSIS">View Project</a>|
 
 
 
