@@ -42,6 +42,8 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 ### Network
 <div>
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+      <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Nmap-FCC624?style=for-the-badge&logo=Nmap&logoColor=black" style="pointer-events: none;" /></a>
+
 </div>
 
 ### Endpoint
