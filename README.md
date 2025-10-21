@@ -31,7 +31,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
 |SOC Automation Project| <a href="https://github.com/syedme18/SOC-Automation-Project">View Project</a>|
-|Splunk Enterprise Setup and Data Ingestion| <a href="https://github.com/syedme18/Splunk-Enterprise-Setup-and-Data-Ingestion-Guide">View Project</a>|
 |SSH Log Analysis using Splunk| <a href="https://github.com/hostzubair/SSH-LOG-ANALYSIS/tree/f9bdc83380c703213b71172356d633915d029f0d">View Project</a>|
 
 
