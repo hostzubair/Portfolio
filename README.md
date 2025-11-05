@@ -32,7 +32,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 |-----------------------------------------------|----------------------------|
 |Nessus Project| <a href="https://github.com/hostzubair/Nessus">View Project</a>|
 |Wireshark Project| <a href="https://github.com/hostzubair/Wireshark">View Project</a>|
-|SOC Automation Project| <a href="https://github.com/syedme18/SOC-Automation-Project">View Project</a>|
 |SSH Log Analysis using Splunk| <a href="https://github.com/hostzubair/SSH-LOG-ANALYSIS">View Project</a>|
 
 
@@ -79,8 +78,8 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 <div>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIFC1QIITO.pdf"><img src="https://img.shields.io/badge/Pre%20Security%20TRY Hackme%20-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
-
-
 <a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-DC143C?&style=for-the-badge&logoColor=white" />
 </a>  
+<a href="file:///C:/Users/admin/AppData/Local/Microsoft/Windows/INetCache/IE/RYIABULH/Nasscom%20Certificate[1].pdf"><img src="https://img.shields.io/badge/Nasscom%20-1BA0E8?style=for-the-badge&logo=cisco&logoColor=white" style="pointer-events: none;" />
+</a>
 </div>
